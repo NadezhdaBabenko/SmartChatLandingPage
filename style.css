@@ -11,7 +11,7 @@ body{
 }
 /* 2 BLOCK */
 #block2{
-    background-image: url('../SmartChat_Assets/img/header_img.png');
+    background-image: url('img/header_img.png');
     height: 92vh;
     background-repeat: no-repeat;
     background-position: 20%;
@@ -136,19 +136,19 @@ body{
     font-family: 'Akrobat SemiBold', sans-serif; 
 }
 #block5_img1{
-    background-image: url("../SmartChat_Assets/img/pinkMan.png");
+    background-image: url("img/pinkMan.png");
 }
 #block5_img2{
-    background-image: url("../SmartChat_Assets/img/depositphotos_39459073-stock-photo-time-management-business-couple-time.jpg");
+    background-image: url("img/depositphotos_39459073-stock-photo-time-management-business-couple-time.jpg");
 }
 #block5_img3{
-    background-image: url("../SmartChat_Assets/img/meeting.png");
+    background-image: url("img/meeting.png");
 }
 #block5_img4{
-    background-image: url("../SmartChat_Assets/img/0814409_640x480.jpg");
+    background-image: url("img/0814409_640x480.jpg");
 }
 #block5_img5{
-    background-image: url("../SmartChat_Assets/img/o-DATA-CENTER-facebook-940x657.png");
+    background-image: url("img/o-DATA-CENTER-facebook-940x657.png");
 }
 .block5_imgs p{
     width: 90%;
@@ -399,7 +399,7 @@ body{
     font-family: 'Akrobat', sans-serif;
 }
 .register{
-    background-image: url('../SmartChat_Assets/img/200884.jpg');
+    background-image: url('img/200884.jpg');
     background-size: cover;
     height: 70vh;
     color: white;
